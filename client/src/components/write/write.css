@@ -1,0 +1,14 @@
+form {
+    margin: 100px 200px;
+    
+}
+
+label {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(139, 127, 127);
+}
+
+.formIcon {
+    margin-right: 15px;
+}
